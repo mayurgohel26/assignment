@@ -1,0 +1,83 @@
+Q1: Are the HTML Tags and elements the same thing?
+Html elements encompasses opening tag,closing tag,content and html tag is just opening and closing entity.
+
+Q2: What are tags and attributes in HTML?
+The main difference between tag and attribute is that a tag is a way of representing an HTML element in 
+the program, while an attribute is a way of describing the characteristics of an HTML element.
+
+
+Q3: What are void elements in HTML?
+
+Q4: What are HTML Entities?
+An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon ( ; ). 
+Entities are frequently used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces).
+
+Q5: What are different types of lists in HTML?
+There are three types of lists in HTML:
+Unordered list (ul)
+Ordered list (ol)
+Definition list (dl)
+
+Q6: What is the class attribute in HTML?
+
+Q7: What is the difference between the id attribute an the class attribute of HTML elements?
+While an ID is specific to a single element, classes can be assigned to multiple elements on a page or throughout the website. 
+They are not unique. And while a single element can only have one ID, it can have multiple classes.
+
+Q8: What are the various formatting tags in HTML?
+Formatting elements were designed to display special types of text:
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+Q9: How is Cell padding deffrent from Cell Spacing?
+Cellpadding basically defines the space present between a table cell's border and the content present in it. 
+Cellspacing basically defines the space present between individual adjacent cells.
+
+Q10: How can we club two or more rows or columns into a single row or column in an HTML table?
+It can be done by using the rowspan and colspan attribute in HTML. The rowspan is used to merge or 
+combine the number of cells in a row whereas the colspan is used to merge column cells in a table.
+
+Q11: What is the different between a block-level element and an inline element?
+Block elements always start from a new line. Inline elements never start from a new line. 
+Block elements cover space from left to right as far as it can go. Inline elements only cover the space as bounded by the tags in the HTML element.
+
+Q12: How to create a Hyperlink in HTML?
+To make a hyperlink in an HTML page, use the <a> and </a> tags, which are the tags used to define the links. The <a> tag indicates where the hyperlink starts and
+the </a> tag indicates where it ends. Whatever text gets added inside these tags, will work as a hyperlink. Add the URL for the link in the <a href=” ”>.
+
+Q13: What is the use of an iframe tag?
+An inline frame (iframe) is a HTML element that loads another HTML page within the document. It essentially puts another webpage within the parent page. 
+They are commonly used for advertisements, embedded videos, web analytics and interactive content.
+
+Q14: What is the use of a span tag? Explain with example?
+
+Q15: How to insert a picture into a background image of a web page?
+To insert an image in HTML, use the image tag and include a source and alt attribute. Like any other HTML element, you’ll add images to the body section 
+of your HTML file.
+
+The syntax looks like this: <img src="URL" alt="descriptive text">
+
+The HTML image element is an “empty element,” meaning it does not have a closing tag. Unlike elements like paragraph that consist of an opening 
+and a closing tag with content in between, an image specifies its content with attributes in the opening tag.
+
+Q16: How are active links different from normal links?
+
+Q17: What are the different tags to separate section of text?
+
+Q18: What is SVG?
+The HTML SVG is an ancronym which stands for Scalable Vector Graphics. HTML SVG a modularised language which is used to describe graphics in XML. is describe two-
+dimensional vector and mixed vector / raster graphics in XML. SVG is mostly used for vector type diagrams like pie chart, 2-dimensional graphs in an X, Y coordinate
+system etc.
+
+Q19: What is difference between HTML and XHTML?
+
+Q20: What are logical and Physical tags in HTML? 
